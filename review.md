@@ -17,3 +17,10 @@ Linear Algebra - Review Sheet
 6. **Neutral element :** 1 ⊗ x = ?
 
 7. **Null vector :** 0 ⊗ x = ?
+
+2. Subspace of vector space
+---------------------------
+
+1. **M = { (x1,x2,...,xn) } :** If (x1, x2, ..., xn) + (y1, y2, ..., yn) = (x1+y1, x2+y2, ..., xn+yn) ∈ M
+
+2. **(0,0,...,0) ∈ M**
