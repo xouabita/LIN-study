@@ -28,6 +28,5 @@ Linear Algebra - Review Sheet
 3. Lineary indepence
 --------------------
 
-Three vectors : v1, v2, v3.
-
+Three vectors : v1, v2, v3.  
 If α.v1 + β.v2 + γ.v3 = 0 have for only solution : α = β = γ = 0, then the three vectors are lineary independent
