@@ -24,3 +24,10 @@ Linear Algebra - Review Sheet
 1. **M = { (x1,x2,...,xn) } :** If (x1, x2, ..., xn) + (y1, y2, ..., yn) = (x1+y1, x2+y2, ..., xn+yn) ∈ M
 
 2. **(0,0,...,0) ∈ M**
+
+3. Lineary indepence
+--------------------
+
+Three vectors : v1, v2, v3.
+
+If α.v1 + β.v2 + γ.v3 = 0 have for only solution : α = β = γ = 0, then the three vectors are lineary independent
