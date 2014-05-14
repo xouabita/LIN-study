@@ -13,7 +13,7 @@ BIE-LIN - Révisions
 2. Vector space, subspace, linear independence
 ----------------------------------------------
 
-- [ ] 2.1
+- [x] 2.1
 - [ ] 2.2
 - [ ] 2.3
 - [ ] ...
